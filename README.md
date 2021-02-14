@@ -1,2 +1,2 @@
 # Netflix Interface
-A netflix clone following strictly Felipe Aguiar's instructions.
+A netflix clone following Felipe Aguiar's instructions.
